@@ -1,0 +1,7 @@
+System.out.println("Hello World");
+
+System.out.println("Olá, Mundo");
+
+System.out.println("Salvamento");
+
+System.out.println("digite seu nome");
